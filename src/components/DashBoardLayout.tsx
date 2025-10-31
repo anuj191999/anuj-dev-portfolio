@@ -7,7 +7,6 @@ import {
   Mail,
   Github,
   Linkedin,
-  Twitter,
   Menu,
   X,
   Building2,

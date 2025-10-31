@@ -1,5 +1,3 @@
-import React from "react";
-
 // Navigation item interface
 export interface NavigationItem {
   id: string;
